@@ -7682,7 +7682,7 @@ class TransitionError(Error):
         self.message = message
 ```
 
-### 内置异常类型的结构:
+### 内置异常类型的结构
 
 ```python
 BaseException
