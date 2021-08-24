@@ -1,2 +1,3 @@
-# python-note
-python-note
+# Headline
+
+> An awesome project.
